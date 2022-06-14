@@ -11,9 +11,9 @@ github repository 경로에 plantuml file ( *.puml )
 
 ### README.md file code 작성 방법
 
-'''
+```
 https://raw.githubusercontent.com/:owner/:repo/:branch/:file_path
-'''
+```
 :owner 자리에 github ID를, 
 :repo 자리에 repository 이름, 
 :branch 자리에 branch를 
